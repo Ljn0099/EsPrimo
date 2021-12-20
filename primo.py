@@ -12,7 +12,5 @@ def primo(apri):
         print("El número no es primo")
 
 
-#Preguntar al usuario
-while True:
-    ak = int(input("Escriba un número: ")) 
-    primo(ak)
+
+primo(7)
